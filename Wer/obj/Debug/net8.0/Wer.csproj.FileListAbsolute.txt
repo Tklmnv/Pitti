@@ -1,0 +1,15 @@
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\bin\Debug\net8.0\Wer.exe
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\bin\Debug\net8.0\Wer.deps.json
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\bin\Debug\net8.0\Wer.runtimeconfig.json
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\bin\Debug\net8.0\Wer.dll
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\bin\Debug\net8.0\Wer.pdb
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.AssemblyInfoInputs.cache
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.AssemblyInfo.cs
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.csproj.CoreCompileInputs.cache
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.sourcelink.json
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.dll
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\refint\Wer.dll
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.pdb
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\Wer.genruntimeconfig.cache
+C:\Users\Witcher\Desktop\GeekBrains\DZ2\Wer\obj\Debug\net8.0\ref\Wer.dll
